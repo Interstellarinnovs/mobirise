@@ -1,0 +1,139 @@
+{
+  "settings": {
+    "name": "Site-10-23_1421",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise4",
+      "title": "Mobirise 4",
+      "styling": {
+        "primaryColor": "#149dcc",
+        "secondaryColor": "#ff3366",
+        "successColor": "#F7ED4A",
+        "infoColor": "#82786E",
+        "warningColor": "#879A9F",
+        "dangerColor": "#B1A374",
+        "mainFont": "Rubik",
+        "display1Font": "Rubik",
+        "display1Size": 4.25,
+        "display2Font": "Rubik",
+        "display2Size": 3,
+        "display5Font": "Rubik",
+        "display5Size": 1.5,
+        "display7Font": "Rubik",
+        "display7Size": 1,
+        "display4Font": "Rubik",
+        "display4Size": 1,
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      }
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.6",
+    "siteFonts": [],
+    "uniqCompNum": 6,
+    "versionPublish": "4.8.6",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".panel-body": {
+              "padding": "15px"
+            },
+            "modal": {
+              "display": "mone",
+              "position": "fixed",
+              "zIndex": "1",
+              "paddingTop": "100px",
+              "left": "0",
+              "top": "0",
+              "width": "100%",
+              "height": "100%",
+              "overflow": "auto",
+              "backgroundColor": "rgba(0,0,0,0.4)"
+            },
+            "modal_content": {
+              "backgroundColor": "#fefefe",
+              "margin": "auto",
+              "padding": "20px",
+              "border": "1px solid #888",
+              "width": "60%"
+            },
+            "close": {
+              "color": "#aaaaaa",
+              "float": "right",
+              "fontSize": "28px",
+              "fontWeight": "bold"
+            },
+            "close_hover": {
+              "color": "#000",
+              "textDecoration": "none",
+              "cursor": "pointer"
+            },
+            "close_focus": {
+              "color": "#000",
+              "textDecoration": "none",
+              "cursor": "pointer"
+            }
+          },
+          "_params": {
+            "showModal": false,
+            "myModalId": "myModal",
+            "blockTitle": "<h1>Modal Block Title</h1>",
+            "text": "<h2>use : javascript:showModal('myModal');<br>as button URL to activate this modal window</h2>",
+            "bgColor": "#fefefe"
+          },
+          "blockTitle": "<h1>Modal Block Title</h1>",
+          "text": "<h2>use : javascript:showModal('myModal');<br>as button URL to activate this modal window</h2>",
+          "alias": "modalblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "modal-block",
+          "_anchor": "modal-block-0"
+        },
+        {
+          "_params": {
+            "anchor": "",
+            "codeEdit": true,
+            "tinyEdit": false
+          },
+          "_customHTML": "<link href=\"//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css\" rel=\"stylesheet\" id=\"bootstrap-css\"><script src=\"//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js\"></script><script src=\"//code.jquery.com/jquery-1.11.1.min.js\"></script><!------ Include the above in your HEAD tag ----------><div class=\"container\">\t<div class=\"row\">\t    <div class=\"col-md-12\">\t        <article class=\"col col-1\">              <p>Internet itself a Big World, in future it will 100% Dominated by Internet. Instead of working with small sites &amp; wasting your time better you Start your Online Business, in this you can benefit yourself ALOT. There are alot of Opportunities in internet how make them use is only depends on you, by this way i give 100% Guarentee in achieving your Dreams, no matter How Big there are. You will Make it into Reality. The beauty of the internet is that you can quite literally launch a business and Make Money Online with very little to no capital. If you understand the mechanics of online marketing, or if you’re great at social media, you’ll clearly find it easier. But you don’t need to be a pro to start your business online.</p>            </article>\t    </div>\t</div></div>",
+          "_customCSS": ":root {    --light-yellow: #009ee2;    --default: #fff;}article p {    font-size: 16px;    color: var(--default);}.col {  background: var(--light-yellow);  padding: 15px 25px;}.col-3 {  column-count: 3;}/*media query docs*/@media (max-width: 600px) {  .col-3 {    column-count: 1;  }}@media (max-width: 991px) and (min-width: 601px) {  .col-3 {    column-count: 2;  }}",
+          "alias": "deltapicodeedit",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapicodeedit",
+          "_anchor": "deltapicodeedit-1"
+        },
+        {
+          "_params": {
+            "anchor": "",
+            "codeEdit": true,
+            "tinyEdit": false
+          },
+          "_customHTML": "<link href=\"//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css\" rel=\"stylesheet\" id=\"bootstrap-css\"><script src=\"//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js\"></script><script src=\"//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js\"></script><!------ Include the above in your HEAD tag ----------><link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\"><div class=\"box\">\t<i class=\"fa fa-quote-left fa2\" aria-hidden=\"true\"></i>\t<div class=\"text\">\t\t<i class=\"fa fa-quote-right fa1\" aria-hidden=\"true\"></i>\t\t\t\t\t<div>\t\t\t<h1>Do you have Dreams?</h1>\t\t\t<p>If yes, then are you working to Make it into Reality. if yes, I want to ask you How ?</p>\t\t</div>\t</div></div>",
+          "_customCSS": "body {\tmargin: 0;\tpadding: 0;\tbackground: #03a9f4;\tfont-family: sans-serif;}.box {\tposition: absolute;\ttop: 50%;\tleft: 50%;\ttransform: translate(-50%,-50%);\twidth: 500px;\theight: 400px;\tcursor: pointer;\ttransform-style: preserve-3d;\tperspective: 2000px;\ttransition: 0.5s;}.box:hover {\ttransform: translate(-50%,-50%) rotateY(-30deg) skewY(5deg);}.box:before {\tcontent:'';\tposition: absolute;\ttop: 0;\tleft: 0;\twidth: 100%;\theight: 100%;\tbackground: transparent;\tborder-top: 20px solid #fff;\tborder-left: 20px solid #fff;\tbox-sizing: border-box;}.box:after {\tcontent: '';\tposition: absolute;\ttop: 0;\tleft: 0;\twidth: 100%;\theight: 100%;\tbackground: transparent;\tborder-bottom: 20px solid #fff;\tborder-right: 20px solid #fff;\tbox-sizing: border-box;}.box .text {\tposition: absolute;\ttop: 30px;\tleft: -30px;\tbackground: #262626;\twidth: calc(100% + 60px);\theight: calc(100% - 60px);\ttransition: 0.5s;}.box:hover .text {\ttransform:rotateY(30deg) skewY(-5deg);}.text div {\tposition: absolute;\ttop: 50%;\tleft: 0;\twidth: 100%;\ttransform:translateY(-50%);\tpadding: 40px 80px;\tbox-sizing: border-box;\ttext-align: center;}.text div h1 {\tmargin: 0 0 20px;\tpadding: 0;\tcolor: #fff;\t\t}.text div p {\tmargin: 0 0 20px;\tpadding: 0;\tcolor: #fff;\tfont-size: 18px;}.fa {\twidth: 80px;\theight: 80px;\tbackground: #fff;\tcolor: #262626;\ttext-align: center;\tline-height: 80px !important;\tfont-size: 40px !important;}.fa.fa1 {\tposition: absolute;\ttop: 0;\tleft: 0;}.fa.fa2 {\tposition: absolute;\tbottom: 0;\tright: 0;\tz-index: 1;}",
+          "alias": "deltapicodeedit",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapicodeedit",
+          "_anchor": "deltapicodeedit-5"
+        }
+      ]
+    }
+  }
+}
